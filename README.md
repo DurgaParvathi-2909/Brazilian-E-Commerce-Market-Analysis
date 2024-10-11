@@ -150,5 +150,7 @@ The datasets used in this analysis include:
  
 This analysis uncovers important insights into customer behavior, purchasing patterns, delivery logistics, and customer satisfaction, helping improve e-commerce operations.
 
+Please give your valuable feedback and suggestions for further improvement.
+
 
  
